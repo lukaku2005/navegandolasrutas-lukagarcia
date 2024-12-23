@@ -1,0 +1,7 @@
+.listacontenedor{
+    display: flex;
+}
+.lista{
+    list-style: none;
+    font-size: 50px;
+}
